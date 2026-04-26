@@ -1,0 +1,8 @@
+{
+  "name": "resonance-superposition",
+  "private": true,
+  "workspaces": [
+    "apps/web",
+    "services/api"
+  ]
+}
